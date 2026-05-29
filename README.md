@@ -3,7 +3,6 @@
 ### Who Am I? <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpyYnQ0NTRoN2Z0c3RjNGQ0NGJtcHpna2MwMHp0M3M2dnAzYWQ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif" width=35> 
 <em>Software Engineer</em> @ <a href="https://www.giki.edu.pk"><strong>GIKI</strong></a> 🇵🇰<br>
 I use: [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
-[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
 [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) 
